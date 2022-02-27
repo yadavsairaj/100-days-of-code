@@ -1,22 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: February 27, 2022 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Started learning Javascript
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Working on a small project named "Build a passenger counter app" along with learning
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+### Day 1: February 28, 2022 
+
+
+**Today's Progress**: Wrote my first function on JS, understood Document Object model, log a greeting to the console, Debugging online
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Build a passenger counter app](https://github.com/yadavsairaj/100-days-of-code/tree/master/Javascript%20projects/Build%20a%20passenger%20counter%20app)
 
 
 ### Day 1: June 27, Monday

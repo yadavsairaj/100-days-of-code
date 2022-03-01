@@ -19,12 +19,12 @@
 **Link(s) to work**: [Build a passenger counter app](https://github.com/yadavsairaj/100-days-of-code/tree/master/Javascript%20projects/Build%20a%20passenger%20counter%20app)
 
 
-### Day 1: June 27, Monday
+### Day 2: March 01, 2022
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Practice time. Done a calculator challenge and a solo project - unit converter
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Took a while to figure it out.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [solo project - unit converter]https://scrimba.com/scrim/coadc4b3a883b030c00b83341
+

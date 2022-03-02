@@ -28,3 +28,9 @@
 **Link(s) to work**
 1. [solo project - unit converter]https://scrimba.com/scrim/coadc4b3a883b030c00b83341
 
+### Day 3: March 02, 2022
+
+**Today's Progress**: Learning conditional statements. Also working on another project for the same.
+
+
+

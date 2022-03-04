@@ -32,5 +32,13 @@
 
 **Today's Progress**: Learning conditional statements. Also working on another project for the same.
 
+### Day 4: March 03, 2022
+
+**Today's Progress**: None, took a break.
+
+### Day 5: March 04, 2022
+
+**Today's Progress**: Learning and practicing.
+
 
 

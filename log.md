@@ -40,5 +40,9 @@
 
 **Today's Progress**: Learning and practicing.
 
+### Day 6: March 05, 2022
+
+**Today's Progress**: Started with the concept of arrays.
+
 
 

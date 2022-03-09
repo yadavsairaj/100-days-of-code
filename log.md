@@ -44,5 +44,17 @@
 
 **Today's Progress**: Started with the concept of arrays.
 
+### Day 7: March 06, 2022
+
+**Today's Progress**: Took a break.
+
+### Day 8: March 07, 2022
+
+**Today's Progress**: Continued with arrays and started with loops.
+
+
+
+
+
 
 

@@ -52,6 +52,10 @@
 
 **Today's Progress**: Continued with arrays and started with loops.
 
+### Day 9: March 08, 2022
+
+**Today's Progress**: Practicing
+
 
 
 

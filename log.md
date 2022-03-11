@@ -56,6 +56,10 @@
 
 **Today's Progress**: Practicing
 
+### Day 10: March 09, 2022
+
+**Today's Progress**: practicing with different functions
+
 
 
 

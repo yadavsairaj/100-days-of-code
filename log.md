@@ -60,7 +60,7 @@
 
 **Today's Progress**: practicing with different functions
 
-### Day 10: March 09, 2022
+### Day 11: March 10, 2022
 
 **Today's Progress**: Today worked on operators, objects and understood methods. 
 This week learned various topics like arrays, objects, booleans, if else, operators, for loops, math object, return statements.

@@ -64,7 +64,8 @@
 
 **Today's Progress**: Today worked on operators, objects and understood methods. 
 This week learned various topics like arrays, objects, booleans, if else, operators, for loops, math object, return statements.
-Also completed  a project named "Build a blackjack game" > https://scrimba.com/scrim/co0704dac8c453a0d7fa67132
+Also completed  a project named "Build a blackjack game" > https://scrimba.com/scrim/co0704dac8c453a0d7fa67132 ,
+
 https://github.com/yadavsairaj/100-days-of-code/tree/master/Javascript%20projects/Blackjack%20Game
 
 
